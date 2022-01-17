@@ -5,4 +5,4 @@ This is guided project built under guidance of Corey Schafer's youtube playlist(
 
 This is complete end-to-end project.
 
-You can find the application at https://myawsmdjangoblogapp.herokuapp.com/
+You can find the deployed application at https://myawsmdjangoblogapp.herokuapp.com/
